@@ -50,12 +50,12 @@ The project consists of just two main Java files as requested:
 
 3. Phrase search:
 ```bash
-./gradlew run --args="\"machine learning\" sample.txt"
+./gradlew run --args="\"machine learning\" ../sample.txt"
 ```
 
 4. Complex query:
 ```bash
-./gradlew run --args="\"Solr OR Lucene\" sample.txt"
+./gradlew run --args="\"Solr OR Lucene\" ../sample.txt"
 ```
 
 ### Creating a Standalone JAR
