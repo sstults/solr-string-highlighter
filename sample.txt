@@ -1,0 +1,9 @@
+Apache Solr is a highly reliable, scalable and fault tolerant, providing distributed indexing, replication and load-balanced querying, automated failover and recovery, centralized configuration and more. Solr powers the search and navigation features of many of the world's largest internet sites.
+
+Solr is highly scalable, providing distributed search and index replication, and it powers the search and navigation features of many of the world's largest internet sites. Solr can power applications ranging from simple search boxes to complex recommendation engines and data analytics platforms.
+
+The unified highlighter in Lucene and Solr provides advanced text highlighting capabilities with better performance and more features than previous highlighting implementations. It can highlight text with HTML tags, showing users exactly where their search terms appear in documents.
+
+This is a sample document for testing the Java text highlighter application that uses Solr's UnifiedHighlighter technology. You can search for terms like "Java", "Solr", "highlighter", "search", or any combination of words to see how the highlighting works.
+
+Machine learning and artificial intelligence are becoming increasingly important in modern search applications. Solr provides excellent support for machine learning features through plugins and custom components.
