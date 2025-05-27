@@ -40,12 +40,12 @@ The project consists of just two main Java files as requested:
 
 1. Simple term search:
 ```bash
-./gradlew run --args="Solr sample.txt"
+./gradlew run --args="Solr ../sample.txt"
 ```
 
 2. Boolean query with AND operator:
 ```bash
-./gradlew run --args="\"highlighter AND text\" sample.txt"
+./gradlew run --args="\"highlighter AND text\" ../sample.txt"
 ```
 
 3. Phrase search:
